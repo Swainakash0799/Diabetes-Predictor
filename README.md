@@ -23,7 +23,7 @@ This project aims to develop a machine learning model that can **predict whether
 
 ## 📊 Dataset Details
 
-* 📁 **Dataset:** Pima Indians Diabetes Dataset
+* 📁 **Dataset:** http://kaggle.com/datasets/saurabh00007/diabetescsv
 * 🎯 **Target Variable:** `Outcome`
 
   * `0` → Non-diabetic
