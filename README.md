@@ -95,13 +95,4 @@ Feature Scaling → Model Training → Evaluation → Insights
 
 ---
 
-## 🚀 Future Improvements
-
-* 🔥 Use advanced models (Random Forest, XGBoost)
-* 🎯 Improve recall to reduce false negatives
-* ⚡ Hyperparameter tuning (GridSearchCV)
-* 🌐 Deploy using Flask / Streamlit
-
----
-
 
