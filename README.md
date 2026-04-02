@@ -1,6 +1,6 @@
 # Diabetes Prediction using Machine Learning
 
-> A machine learning project that predicts the likelihood of diabetes using clinical health data and Logistic Regression.
+A machine learning project that predicts the likelihood of diabetes using clinical health data and Logistic Regression.
 
 ---
 
