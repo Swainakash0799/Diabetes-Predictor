@@ -61,6 +61,11 @@ Feature Scaling → Model Training → Evaluation → Insights
 
 ---
 
+## Model Used
+* Logistic Regression
+* Why this model?
+  Logistic Regression is simple, efficient, and works well for binary classification problems.
+
 ## 📈 Model Performance
 
 | Metric            | Score |
