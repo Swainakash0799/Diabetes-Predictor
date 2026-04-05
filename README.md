@@ -4,7 +4,12 @@ A machine learning project that predicts the likelihood of diabetes using clinic
 
 ---
 
-## 🚀 Project Highlights
+## 🚀 Live Demo
+🔗 [Click here to use the app](https://diabetes-predictor-0799.streamlit.app/)
+
+---
+
+## 📌 Project Highlights
 
 * 🔍 Built a **binary classification model** for medical diagnosis
 * ⚙️ Implemented complete **ML pipeline (data → model → evaluation)**
@@ -14,7 +19,7 @@ A machine learning project that predicts the likelihood of diabetes using clinic
 
 ---
 
-## 📌 Problem Statement
+## 🎯 Problem Statement
 
 Early detection of diabetes is crucial to prevent severe health complications.
 This project aims to develop a machine learning model that can **predict whether a patient is diabetic or not** based on diagnostic measurements.
@@ -48,6 +53,7 @@ This project aims to develop a machine learning model that can **predict whether
 | Data Handling | Pandas, NumPy       |
 | ML Model      | Logistic Regression |
 | Visualization | Matplotlib          |
+| Deployment    | Streamlit           |
 | ML Library    | Scikit-learn        |
 
 ---
