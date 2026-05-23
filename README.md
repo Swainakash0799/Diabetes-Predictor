@@ -97,8 +97,6 @@ Data Collection → Data Cleaning → Feature Selection → Train-Test Split
 * Recall
 * F1 Score
 * Confusion Matrix
-* ROC Curve
-
 ---
 
 ## 🧠 Key Learnings
