@@ -129,6 +129,28 @@ This prevents **training-serving mismatch**, ensuring accurate and consistent pr
 
 ---
 
+## ▶️ Run Locally
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/Swainakash0799/Diabetes-Predictor.git
+cd Diabetes-Predictor
+```
+
+### 2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+
+```
+streamlit run app.py
+```
+
+
 ## 📊 Evaluation Metrics Used
 
 * Accuracy
