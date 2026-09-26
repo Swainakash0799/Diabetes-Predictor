@@ -2,19 +2,17 @@
 
 A machine learning project that predicts the likelihood of diabetes using clinical health data. This project implements and compares Logistic Regression and Support Vector Machine (SVM) models to identify the best-performing approach.
 
----
-
-## **Live Demo:**https://diabetes-predictor-007.streamlit.app/
+🌐 **Live Demo:** https://diabetes-predictor-007.streamlit.app/
 
 ---
 
 ## 📌 Project Highlights
 
-🔍 Built a binary classification model for medical diagnosis
-⚙️ Implemented a complete end-to-end ML pipeline
-🤖 Compared Logistic Regression vs SVM
-📊 Evaluated using Accuracy, Precision, Recall, F1-score & ROC Curve
-🧪 Focused on real-world healthcare application
+- Built a binary classification model for medical diagnosis
+- Implemented a complete end-to-end ML pipeline
+- Compared Logistic Regression vs SVM
+- Evaluated using Accuracy, Precision, Recall, F1-score & ROC Curve
+- Focused on real-world healthcare application
 
 ---
 
@@ -169,5 +167,6 @@ streamlit run app.py
 
 ---
 
+# 👨‍💻 Author
 
-
+**Akash Swain**
