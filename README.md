@@ -2,7 +2,7 @@
 
 A machine learning project that predicts the likelihood of diabetes using clinical health data. This project implements and compares Logistic Regression and Support Vector Machine (SVM) models to identify the best-performing approach.
 
-🌐 **Live Demo:** https://diabetes-predictor-007.streamlit.app/
+🌐 **Live Demo Link:** https://diabetes-predictor-007.streamlit.app/
 
 ---
 
